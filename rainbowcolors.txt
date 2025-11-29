@@ -4,3 +4,4 @@ Blue is the third color of the rainbow
 Green is the fourth color of rainbow
 Yellow is the fifth color of the rainbow
 Orange is the sixth color of the rainbow
+Red is the seventh color of the rainbow
